@@ -1,31 +1,24 @@
-˵���ĵ���
+说明文档：
 
-	���ֿ�Ϊ����˽�˲ֿ⣬���ſ��š����ɵĻ��������񣬱��ֿ��ڴ�����⿪�ţ�����ѧϰ�ο���
+	本仓库为旺仔私人仓库，本着开放、自由的互联网精神，本仓库内代码对外开放（仅供学习参考）
 	
-	�ֿ�Ŀ¼�ṹ��
+	仓库目录结构：
 	
-		�Ա�̿�������Ϊ���࣬��Ŀ����Ϊ��֧�����ļ��д���
+		以编程开发语言为大类，项目名称为分支，分文件夹储存
 		
 		
-	Php��
+	Php：
 	
-		php �汾Ϊ php5.xx����
+		php 版本为 php5.xx以上
 		
-		thinkPhp Ϊ tp3.2������Ŀ�� �� tp5.0������ʹ�ø߰汾��
+		thinkPhp 为 tp3.2（老项目） 和 tp5.0（建议使用高版本）
 		
-		�Ƽ�ʹ��Composer ��װ
+		推荐使用Composer 安装
 		
 		
 	Mysql version 5.5.53 MySQL Community Server (GPL)
 	
-	
-	Python:
-	
-		python 3.5.6(python 2.7��ͬѧ��ע��)
-		
-		
-		��չ��ʹ�� pip ��װ
-		
+
 		
 	
 	
